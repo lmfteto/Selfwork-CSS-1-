@@ -1,0 +1,18 @@
+*{
+    font-family: 'Roboto' ,serif;
+}
+
+h1 ,h2 {
+    font-family: 'Liter', serif;
+    color: blueviolet;
+}
+main{
+    background-color: rgba(45, 247, 247, 0.3);
+}
+header {
+    background-image: url("Media/fondo-colorido-borroso-vivo_58702-2655.jpg");
+
+}
+h1:hover{
+    background-color: blue;
+}
